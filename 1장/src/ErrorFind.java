@@ -1,0 +1,12 @@
+//java 1장 실습2
+public class ErrorFind {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("이 프로그램은 많은 오류가 있다,");
+		System.out.println("이 문장은 Out에 문제가 있다.");
+		System.out.println("이 문장의 오류를 찾아라.");
+
+	}
+
+}
